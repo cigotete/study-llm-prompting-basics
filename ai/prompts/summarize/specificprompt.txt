@@ -1,7 +1,7 @@
 """
-Summarize the following text.
-The summary should not exceed 100 characters
-Add bullet points not more than 10
-print the summarized news
+From the below text, Extract player names and their role in the team in a json format with following keys
+name, role
+keep "cricketers" as the root object of the json
+print the json
 text:
 """
